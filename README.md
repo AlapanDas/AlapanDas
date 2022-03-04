@@ -14,4 +14,4 @@
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ...Does Astrophotography
 
-    <img src="https://github-readme-stats.vercel.app/api?username=AlapanDas&&show_icons=true&title_color=ffffff&icon_color=dce31b&text_color=eb2d2d&bg_color=101010">
+    <img src="https://github-readme-stats.vercel.app/api?username=AlapanDas&&show_icons=true&title_color=ffffff&icon_color=eb2d2d&text_color=eb2d2d&bg_color=101010">
