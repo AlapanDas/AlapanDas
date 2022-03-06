@@ -1,5 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" height="150px"/> </a>
-
+<p style="text-align:center;"><img src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" alt="Logo"></p>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Alapan Das</h1>
 <h3 align="center">Hey! I am a Developer from India</h3>
 
@@ -45,7 +44,6 @@
 
   <br/>
     <a href="https://github.com/AlapanDas/github-readme-stats"><img alt="Alapan Das's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AlapanDas&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
- 
  <a href="https://github.com/AlapanDas/github-readme-stats"><img alt="Alapan Das's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlapanDas&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</b>
