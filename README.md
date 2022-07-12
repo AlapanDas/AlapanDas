@@ -5,9 +5,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[GSSOC 2022](https://gssoc.girlscript.tech/) , [Google Kickstart 2022](https://codingcompetitions.withgoogle.com/kickstart/)** Events
+- 🔭 I’m currently working on **[Weather App](https://github.com/AlapanDas/Weather-App), [Google Kickstart 2022](https://codingcompetitions.withgoogle.com/kickstart/)** Events
 
-- 🌱 I’m currently learning **Data Structures and Algorithms, Flutter, Django**
+- 🌱 I’m currently learning **Data Structures and Algorithms, Javascript,MongoDB**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects, Back-end Based Projects**
 
