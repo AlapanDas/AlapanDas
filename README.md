@@ -1,21 +1,21 @@
 
 <h1 align="center">Hi,I am Alapan Das</h1>
-<h3 align="center">I am a Developer from India</h3>
+<h3 align="center">I am an Aspiring Developer from India</h3>
 
 [![@alapandas's Holopin board](https://holopin.me/alapandas)](https://holopin.io/@alapandas)
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Weather App](https://github.com/AlapanDas/Weather-App), [Google Kickstart 2022](https://codingcompetitions.withgoogle.com/kickstart/)** Events
+- 🔭 I’m currently working on **[Image Processing and Deep Learning](https://github.com/AlapanDas/Image-Processing-with-Python), [Google Summer of Code 2023](https://summerofcode.withgoogle.com/)** Events
 
-- 🌱 I’m currently learning **Data Structures and Algorithms, Javascript,MongoDB**
+- 🌱 I’m currently learning **Deep Learning, Rest2API Projects, Node js, Javascript, MongoDB**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects, Back-end Based Projects**
+- 👯 I’m looking to collaborate on **OpenSource Projects, Machine Learning Projects, Back-end Based Projects**
 
 - 👨‍💻 All of my projects are available at **[My Repositories](https://github.com/AlapanDas?tab=repositories)**
 
 - 📫 How to reach me **alapandas333@gmail.com**
 
-- ⚡ Fun fact **I do sing and click Pictures a lot.**
+- ⚡ Fun fact **I am a Photographer and a Guitar Player too.**
 
 ## 🚀 Languages and Tools:
 
