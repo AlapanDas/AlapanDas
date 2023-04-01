@@ -63,5 +63,5 @@
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=AlapanDas">
 </a>
-<a href="https://github.com/AlapanDas?tab=followers"><img src="https://img.shields.io/github/followers/AlapanDas?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/AlapanDas?tab=followers"><img src="https://img.shields.io/github/followers/AlapanDas?label=Followers&style=social" alt="GitHub Badge"></a> <br>
 [![@alapandas's Holopin board](https://holopin.me/alapandas)](https://holopin.io/@alapandas)
