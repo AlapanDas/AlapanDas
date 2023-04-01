@@ -1,13 +1,11 @@
+![pexels-pixabay-326461](https://user-images.githubusercontent.com/71692310/229300719-6c38c478-d94f-4095-969d-36704d99eee2.jpg)
 
-<h1 align="center">Hi,I am Alapan Das</h1>
-<h3 align="center">I am an Aspiring Developer from India</h3>
 
-[![@alapandas's Holopin board](https://holopin.me/alapandas)](https://holopin.io/@alapandas)
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on **[Image Processing and Deep Learning](https://github.com/AlapanDas/Image-Processing-with-Python), [Google Summer of Code 2023](https://summerofcode.withgoogle.com/)** Events
 
-- 🌱 I’m currently learning **Deep Learning, Rest2API Projects, Node js, Javascript, MongoDB**
+- 🌱 I’m currently learning **Deep Learning, React Projects, Javascript, MongoDB**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects, Machine Learning Projects, Back-end Based Projects**
 
@@ -66,3 +64,4 @@
     <img src="https://komarev.com/ghpvc/?username=AlapanDas">
 </a>
 <a href="https://github.com/AlapanDas?tab=followers"><img src="https://img.shields.io/github/followers/AlapanDas?label=Followers&style=social" alt="GitHub Badge"></a>
+[![@alapandas's Holopin board](https://holopin.me/alapandas)](https://holopin.io/@alapandas)
