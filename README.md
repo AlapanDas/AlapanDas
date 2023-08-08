@@ -3,11 +3,11 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Image Processing and Deep Learning](https://github.com/AlapanDas/Image-Processing-with-Python), [Google Summer of Code 2023](https://summerofcode.withgoogle.com/)** Events
+- 🔭 I’m currently working on **[MERN Projects](https://github.com/AlapanDas/My-Bus-Ticket), [Google Summer of Code 2023](https://summerofcode.withgoogle.com/)** Events
 
-- 🌱 I’m currently learning **Deep Learning, React Projects, Javascript, MongoDB**
+- 🌱 I’m currently learning **Deep Learning, ReactJS Projects, Javascript, MongoDB, .NET**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects, Machine Learning Projects, Back-end Based Projects**
+- 👯 I’m looking to collaborate on **OpenSource Projects, Machine Learning Projects, MERN Based Projects**
 
 - 👨‍💻 All of my projects are available at **[My Repositories](https://github.com/AlapanDas?tab=repositories)**
 
