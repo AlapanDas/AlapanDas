@@ -3,7 +3,7 @@
 **HEY I am Alapan Das, Developer from India**
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[MERN Projects](https://github.com/AlapanDas/My-Bus-Ticket), [Google Summer of Code 2023](https://summerofcode.withgoogle.com/)** Events
+- 🔭 I’m currently working on **[MERN Projects](https://github.com/AlapanDas/My-Bus-Ticket), [Google Summer of Code 2025](https://summerofcode.withgoogle.com/)** Events
 
 - 🌱 I’m currently learning **Deep Learning, ReactJS Projects, Javascript, MongoDB, .NET**
 
